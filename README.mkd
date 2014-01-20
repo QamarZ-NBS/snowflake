@@ -57,6 +57,8 @@ To contribute:
 
 ## building
 
-To build and test, run `mvn test`.
+To build and test:
+   1. run `mvn test`.
+   2. run `run-server.sh server_port` to launch the server
 
 [![Build Status](https://secure.travis-ci.org/twitter/snowflake.png)](http://travis-ci.org/twitter/snowflake).
